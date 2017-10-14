@@ -1,0 +1,4 @@
+设置全局字体, Preferences --> Appearance & Behavior --> Appearance --> Size
+参照 PyCharm Settings global font size.png
+只设置写代码部分的字体大小, Preferences --> Editor --> Font --> Size
+参照 PyCharm Settings code font sieze.png
