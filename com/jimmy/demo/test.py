@@ -4,10 +4,18 @@ import matplotlib.pyplot as plt
 
 
 def gradientDescent(x, y, alpha, numIterations):
-    xTrans = x.transpose()
-    m, n = np.shape(x)
-    theta = np.ones(n)
-    for i in range(0, numIterations):
+    """
+
+    :param x:
+    :param y:
+    :param alpha: 步长
+    :param numIterations:
+    :return:
+    """
+    xTrans = x.transpose() # transpose 转置 相当于x.T
+    m, n = np.shape(x) # shape 返回x的形状，m = 20, n = 2; 20行2列
+    theta = np.ones(n) # 用1填充n形状（矩阵）
+    for i in range(0, numIterations): # 迭代一万次
         hwx = np.dot(x, theta)
         loss = hwx - y
         cost = np.sum(loss ** 2) / (2 * m)
@@ -25,6 +33,7 @@ def genData(numPoints, bias, variance):
     :param variance: 波动值,误差,方差
     :return: x 是一个 一维特征, 因为 y = ax + b; 中的b存在,构造y = ax1 + bx0;
     所有x会构建成[[1,0] [1, 2] ...] 的形式, 相当于 x0, x1 两个特征, x0永远为1, x1 递增
+
     """
     x = np.zeros(shape=(numPoints, 2))
     y = np.zeros(shape=numPoints)
