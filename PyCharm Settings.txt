@@ -2,3 +2,7 @@
 参照 PyCharm Settings global font size.png
 只设置写代码部分的字体大小, Preferences --> Editor --> Font --> Size
 参照 PyCharm Settings code font sieze.png
+
+PyCharm里面的.py文件变成使用Xcode打开了, 因为设置了File Types,见图
+File Types.png
+
