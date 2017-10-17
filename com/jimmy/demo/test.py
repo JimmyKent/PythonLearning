@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 def gradientDescent(x, y, alpha, numIterations):
     """
+    这部分要结合公式看
 
     :param x:
     :param y:
@@ -12,16 +13,16 @@ def gradientDescent(x, y, alpha, numIterations):
     :param numIterations:
     :return:
     """
-    xTrans = x.transpose() # transpose 转置 相当于x.T
-    m, n = np.shape(x) # shape 返回x的形状，m = 20, n = 2; 20行2列
-    theta = np.ones(n) # 用1填充n形状（矩阵）
-    for i in range(0, numIterations): # 迭代一万次
-        hwx = np.dot(x, theta)
-        loss = hwx - y
-        cost = np.sum(loss ** 2) / (2 * m)
+    xTrans = x.transpose()  # transpose 转置 相当于x.T
+    m, n = np.shape(x)  # shape 返回x的形状，m = 20, n = 2; 20行2列
+    theta = np.ones(n)  # 用1填充n形状（矩阵）
+    for i in range(0, numIterations):  # 迭代一万次
+        hwx = np.dot(x, theta)  # hypothesis 猜测函数
+        loss = hwx - y  # 公式里的括号项
+        cost = np.sum(loss ** 2) / (2 * m)  # 代价函数 方差
         print("Iteration %d | Cost: %f " % (i, cost))
-        gradient = np.dot(xTrans, loss) / m
-        theta = theta - alpha * gradient
+        gradient = np.dot(xTrans, loss) / m  # 更新梯度
+        theta = theta - alpha * gradient  # 同时更新theta0, theta1
     return theta
 
 
