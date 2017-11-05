@@ -26,6 +26,8 @@ def load_data(filename):
 
 def load_data2(filename):
     """
+    Matrix.T : T -- transpose 转置
+    Matrix.I : I -- inverse 逆运算
     Returns:
     X : 1
     y : 价格
