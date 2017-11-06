@@ -19,8 +19,8 @@ def gradientDescent(x, y, alpha, numIterations):
     for i in range(0, numIterations):  # 迭代一万次
         hwx = np.dot(x, theta)  # hypothesis 猜测函数
         loss = hwx - y  # 公式里的括号项
-        cost = np.sum(loss ** 2) / (2 * m)  # 代价函数 方差
-        print("Iteration %d | Cost: %f " % (i, cost))
+        cost = np.sum(loss ** 2) / (2 * m)  # 代价函数, 方差
+        # print("Iteration %d | Cost: %f " % (i, cost))
         gradient = np.dot(xTrans, loss) / m  # 更新梯度
         theta = theta - alpha * gradient  # 同时更新theta0, theta1
     return theta
@@ -53,7 +53,9 @@ def plotData(x, y, theta):
 
 if __name__ == "__main__":
     x, y = genData(20, 25, 10)
-    print(x, y)
+    print(x)
+    print("------")
+    print(y)
     iterations = 10000
     alpha = 0.001
     theta = gradientDescent(x, y, alpha, iterations)
