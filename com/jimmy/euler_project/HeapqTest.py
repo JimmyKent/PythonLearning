@@ -3,27 +3,26 @@
 from heapq import *
 import heapq
 
-
-heap = [2, 1, -1, 9, 8]
-heapify(heap)
-print(heap)
-
-heappush(heap, 3)
-print(heap)
-heappush(heap, 10)
-print(heap)
-
-heapify(heap)
-print(heap)
-
-heappop(heap)
-print(heap)
-heappop(heap)
-print(heap)
-heappop(heap)
-print(heap)
-heappop(heap)
-print(heap)
+# heap = [2, 1, -1, 9, 8]
+# heapify(heap)
+# print(heap)
+#
+# heappush(heap, 3)
+# print(heap)
+# heappush(heap, 10)
+# print(heap)
+#
+# heapify(heap)
+# print(heap)
+#
+# heappop(heap)
+# print(heap)
+# heappop(heap)
+# print(heap)
+# heappop(heap)
+# print(heap)
+# heappop(heap)
+# print(heap)
 
 '''
 [-1, 1, 2, 9, 8]
@@ -45,39 +44,35 @@ class Node:
     def __eq__(self, other):
         return self.x * 100 + self.y == other.x * 100 + other.y
 
+    def __lt__(self, other):  # operator <
+        return self.x * 100 + self.y < other.x * 100 + other.y
 
+    def __ge__(self, other):  # oprator >=
+        return self.x * 100 + self.y >= other.x * 100 + other.y
 
+    def __le__(self, other):  # oprator <=
+        return self.x * 100 + self.y <= other.x * 100 + other.y
 
+    # def __cmp__(self, other):
+    #     # call global(builtin) function cmp for int
+    #     return cmp(self.x * 100 + self.y, other.x * 100 + other.y)
 
-class MyHeap(object):
-    def __init__(self, initial=None, key=lambda x: x):
-        self.key = key
-        if initial:
-            self._data = [(key(item), item) for item in initial]
-            heapq.heapify(self._data)
-        else:
-            self._data = []
-
-    def push(self, item):
-        heapq.heappush(self._data, (self.key(item), item))
-
-    def pop(self):
-        return heapq.heappop(self._data)[1]
+    def __str__(self):
+        return "(" + str(self.x) + "," + str(self.y) + "," + str(self.distance)
 
 
 node1 = Node()
-node1.x = 1
+node1.x = 2
 node2 = Node()
-node2.x = 2
+node2.x = 3
 print(node1 == node2)
 
 nodes = []
 nodes.append(node1)
 nodes.append(node2)
 heapify(nodes)
-# heappush(nodes, node1)
-# heappush(nodes, node2)
-# test = heappop(nodes)
-# print(test.x)
-# test2 = heappop(nodes)
-# print(test2.x)
+test = heappop(nodes)
+print(test.x)
+test2 = heappop(nodes)
+print(test2.x)
+
