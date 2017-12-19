@@ -4,6 +4,10 @@ import numpy as np
 from heapq import *
 
 
+# import matplotlib.pyplot as plt
+# from pylab import *
+
+
 def read_data(filename, split):
     line_length = len(open(filename).readline().split(split))
     matrix_x = []
@@ -48,7 +52,7 @@ def refresh(n):
 
 
 def get_distance(x, y):
-    if (y < 0) or y >= 80 or x < 0 or x >= 80:
+    if y < 0 or y >= 80 or x < 0 or x >= 80:
         return DEFAULT_DISTANCE
     else:
         return disMatrix[x, y]
@@ -85,13 +89,20 @@ disMatrix[0, 1] = original[0, 1] + original[0, 0]
 disMatrix[1, 0] = original[1, 0] + original[0, 0]
 heapify(U)
 
+plot_x = []
+plot_y = []
+plot_x.append(0)
+plot_y.append(0)
 while len(U) > 0:
     node = heappop(U)
     h = node.x
     w = node.y
     disMatrix[h, w] = node.distance
 
-    print(node)
+    plot_x.append(w)
+    plot_y.append(h)
+
+    # print(node)
 
     if (w - 1 > 0) and w - 1 < 80:
         left = Node(h, w - 1, disMatrix[h, w - 1])
@@ -134,4 +145,46 @@ while len(U) > 0:
             U.append(bottom)
             heapify(U)
 
-print(disMatrix[79, 79])
+# np.set_printoptions(threshold=np.nan)
+# print(disMatrix)
+# print(disMatrix[79, 79])
+# print(len(plot_x))
+# print(len(plot_y))
+
+# plt.axis([-1, 100, -1, 100])
+
+# 思路不对
+h = 0
+w = 0
+path_x = []
+path_y = []
+while h < 80 and w < 80:
+    current = disMatrix[h, w]
+    print(str(h) + ", " + str(w) + " " + str(current))
+    path_x.append(w)
+    path_y.append(h)
+    # if h == 12 and w == 6:
+    #     break
+
+    left = get_distance(h, w - 1) if current < get_distance(h, w - 1) else DEFAULT_DISTANCE
+    right = get_distance(h, w + 1) if current < get_distance(h, w + 1) else DEFAULT_DISTANCE
+    top = get_distance(h - 1, w) if current < get_distance(h - 1, w) else DEFAULT_DISTANCE
+    bottom = get_distance(h + 1, w) if current < get_distance(h + 1, w) else DEFAULT_DISTANCE
+    print(str(left) + " " + str(right) + " " + str(top) + " " + str(bottom))
+    mins = min(left, right, top, bottom)
+    if mins == left:
+        w = w - 1
+    elif mins == right:
+        w = w + 1
+    elif mins == top:
+        h = h - 1
+    elif mins == bottom:
+        h = h + 1
+
+
+# 打点 Dijkstra 遍历过程
+# for i in range(80):
+#     plt.scatter(plot_x[i], plot_y[i])
+#     # plt.pause(0.005)
+#
+# plt.show()

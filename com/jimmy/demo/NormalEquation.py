@@ -65,6 +65,9 @@ if __name__ == "__main__":
     theta = X_T_X_I * X_T * y
 
     print(theta)
+
+    print("----------------------------")
+
     print(X_O)
 
     a = theta[0][0]
