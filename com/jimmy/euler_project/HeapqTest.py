@@ -67,9 +67,17 @@ node2 = Node()
 node2.x = 3
 print(node1 == node2)
 
+
+
+
 nodes = []
 nodes.append(node1)
 nodes.append(node2)
+
+if node1 in nodes:
+    nodes.remove(node1)
+    heappush(nodes, node1)
+
 heapify(nodes)
 test = heappop(nodes)
 print(test.x)

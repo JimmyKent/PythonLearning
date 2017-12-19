@@ -30,23 +30,23 @@ class Node(object):
         return "(" + str(self.x) + ", " + str(self.y) + ", " + str(self.distance) + ")"
 
 
-node1 = Node(1, 2, 2)
-node2 = Node(2, 3, 3)
+node1 = Node(1, 1, 2)
+node2 = Node(1, 1, 3)
 print(node1 == node2)
 
 nodes = []
 nodes.append(node2)
 nodes.append(node1)
 heapify(nodes)
-heappush(nodes, Node(2, 1, 1))
+heappush(nodes, Node(2, 1, 10))
 
-bottom = Node(1, 1, 3)
+bottom = Node(2, 1, 3)
 if bottom in nodes:
     temp = 1000
     bottom.distance = temp
     nodes.remove(bottom)
-    heappush(nodes, bottom)
-    # heapify(nodes)
+    nodes.append(bottom)
+    heapify(nodes)
 
 test = heappop(nodes)
 print(test)
@@ -56,4 +56,3 @@ test2 = heappop(nodes)
 print(test2)
 print(len(nodes))
 
-minNum = min(1, 2, 3, 4, 5)

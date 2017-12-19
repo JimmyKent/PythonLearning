@@ -87,8 +87,8 @@ heapify(U)
 
 while len(U) > 0:
     node = heappop(U)
-    w = node.x
-    h = node.y
+    h = node.x
+    w = node.y
     disMatrix[h, w] = node.distance
 
     print(node)
@@ -100,7 +100,8 @@ while len(U) > 0:
             disMatrix[h, w - 1] = min(original[h, w - 1] + temp, disMatrix[h, w - 1])
             left.distance = disMatrix[h, w - 1]
             U.remove(left)
-            heappush(U, left)
+            # heappush(U, left)  # error
+            U.append(left)
             heapify(U)
 
     if (w + 1 > 0) and w + 1 < 80:
@@ -110,7 +111,7 @@ while len(U) > 0:
             disMatrix[h, w + 1] = min(original[h, w + 1] + temp, disMatrix[h, w + 1])
             right.distance = disMatrix[h, w + 1]
             U.remove(right)
-            heappush(U, right)
+            U.append(right)
             heapify(U)
 
     if (h - 1 > 0) and h - 1 < 80:
@@ -120,7 +121,7 @@ while len(U) > 0:
             disMatrix[h - 1, w] = min(original[h - 1, w] + temp, disMatrix[h - 1, w])
             top.distance = disMatrix[h - 1, w]
             U.remove(top)
-            heappush(U, top)
+            U.append(top)
             heapify(U)
 
     if (h + 1 > 0) and h + 1 < 80:
@@ -130,7 +131,7 @@ while len(U) > 0:
             disMatrix[h + 1, w] = min(original[h + 1, w] + temp, disMatrix[h + 1, w])
             bottom.distance = disMatrix[h + 1, w]
             U.remove(bottom)
-            heappush(U, bottom)
+            U.append(bottom)
             heapify(U)
 
 print(disMatrix[79, 79])
