@@ -4,8 +4,8 @@ import numpy as np
 from heapq import *
 
 
-# import matplotlib.pyplot as plt
-# from pylab import *
+import matplotlib.pyplot as plt
+from pylab import *
 
 
 def read_data(filename, split):
@@ -145,31 +145,33 @@ while len(U) > 0:
             U.append(bottom)
             heapify(U)
 
+print(disMatrix[79, 79])
+# https://www.cnblogs.com/dmir/p/5009075.html
+# np.savetxt("D:\workspace_python\PythonLearning\com\jimmy\euler_project\distance_matrix.txt",
+#            disMatrix, fmt='%d', delimiter=' ', newline='\r\n')
 # np.set_printoptions(threshold=np.nan)
-# print(disMatrix)
-# print(disMatrix[79, 79])
-# print(len(plot_x))
-# print(len(plot_y))
+print(disMatrix)
+print(disMatrix[79, 79])
 
-# plt.axis([-1, 100, -1, 100])
 
-# 思路不对
-h = 0
-w = 0
+plt.axis([-1, 100, -1, 100])
+
+h = 79
+w = 79
 path_x = []
 path_y = []
-while h < 80 and w < 80:
+while h > -1 and w > -1:
     current = disMatrix[h, w]
-    print(str(h) + ", " + str(w) + " " + str(current))
+    print(current)
     path_x.append(w)
     path_y.append(h)
-    # if h == 12 and w == 6:
-    #     break
+    if h == 0 and w == 0:
+        break
 
-    left = get_distance(h, w - 1) if current < get_distance(h, w - 1) else DEFAULT_DISTANCE
-    right = get_distance(h, w + 1) if current < get_distance(h, w + 1) else DEFAULT_DISTANCE
-    top = get_distance(h - 1, w) if current < get_distance(h - 1, w) else DEFAULT_DISTANCE
-    bottom = get_distance(h + 1, w) if current < get_distance(h + 1, w) else DEFAULT_DISTANCE
+    left = get_distance(h, w - 1) if current > get_distance(h, w - 1) else DEFAULT_DISTANCE
+    right = get_distance(h, w + 1) if current > get_distance(h, w + 1) else DEFAULT_DISTANCE
+    top = get_distance(h - 1, w) if current > get_distance(h - 1, w) else DEFAULT_DISTANCE
+    bottom = get_distance(h + 1, w) if current > get_distance(h + 1, w) else DEFAULT_DISTANCE
     print(str(left) + " " + str(right) + " " + str(top) + " " + str(bottom))
     mins = min(left, right, top, bottom)
     if mins == left:
@@ -181,10 +183,9 @@ while h < 80 and w < 80:
     elif mins == bottom:
         h = h + 1
 
-
 # 打点 Dijkstra 遍历过程
-# for i in range(80):
-#     plt.scatter(plot_x[i], plot_y[i])
-#     # plt.pause(0.005)
-#
-# plt.show()
+for i in range(len(plot_x) * len(plot_y)):
+    plt.scatter(plot_x[i], plot_y[i])
+    plt.pause(0.005)
+
+plt.show()
