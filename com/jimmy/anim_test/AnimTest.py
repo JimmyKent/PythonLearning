@@ -2,7 +2,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import animation
-
+plt.rcParams['animation.ffmpeg_path'] = '/usr/local/Cellar/ffmpeg/3.4.1/bin/ffmpeg'
 # First set up the figure, the axis, and the plot element we want to animate
 fig = plt.figure()
 ax = plt.axes(xlim=(0, 2), ylim=(-2, 2))

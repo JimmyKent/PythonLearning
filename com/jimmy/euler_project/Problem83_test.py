@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pylab import *
 
-disMatrix = np.loadtxt("D:\workspace_python\PythonLearning\com\jimmy\euler_project\distance_matrix.txt", delimiter=' ')
+disMatrix = np.loadtxt("/Users/jinguochong/PycharmProjects/PythonLearning/com/jimmy/euler_project/Problem83_distance_matrix.txt", delimiter=' ')
 
 print(disMatrix)
 
