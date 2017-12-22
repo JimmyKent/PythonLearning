@@ -2,7 +2,9 @@ import numpy as np
 from pylab import *
 from matplotlib import pyplot as plt
 
-disMatrix = np.loadtxt("/Users/jinguochong/PycharmProjects/PythonLearning/com/jimmy/euler_project/Problem83_distance_matrix.txt", delimiter=' ')
+disMatrix = np.loadtxt(
+    "/Users/jinguochong/PycharmProjects/PythonLearning/com/jimmy/euler_project/Problem83_distance_matrix.txt",
+    delimiter=' ')
 
 print(disMatrix)
 
@@ -43,8 +45,14 @@ while h > -1 and w > -1:
     elif mins == bottom:
         h = h + 1
 
+# 限制坐标轴
+
+plt.axis([-1, 81, -1, 81])
+plt.pause(10)
 # 使用红色-星状标记需要绘制的点
-plot(path_x, path_y, 'r*')
+for i in range(len(path_x)):
+    plot(path_x[i], path_y[i], 'r*')
+    plt.pause(0.005)
 # 1）控制颜色
 # 颜色之间的对应关系为
 # b---blue   c---cyan  g---green    k----black
