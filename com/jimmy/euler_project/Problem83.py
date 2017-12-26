@@ -149,6 +149,7 @@ print(disMatrix[79, 79])
 # https://www.cnblogs.com/dmir/p/5009075.html
 # np.savetxt("D:\workspace_python\PythonLearning\com\jimmy\euler_project\distance_matrix.txt",
 #            disMatrix, fmt='%d', delimiter=' ', newline='\r\n')
+# 在控制台打印的数据全展示
 # np.set_printoptions(threshold=np.nan)
 print(disMatrix)
 print(disMatrix[79, 79])

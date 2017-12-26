@@ -48,7 +48,7 @@ while h > -1 and w > -1:
 # 限制坐标轴
 
 plt.axis([-1, 81, -1, 81])
-plt.pause(10)
+plt.pause(1)
 # 使用红色-星状标记需要绘制的点
 for i in range(len(path_x)):
     plot(path_x[i], path_y[i], 'r*')
