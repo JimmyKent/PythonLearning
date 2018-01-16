@@ -1,0 +1,43 @@
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+环境安装
+编译/运行
+数据类型:基本数据类型 数组 链表 map list set tuple dict
+条件判断 if else
+循环 for while
+函数:调用 定义 参数 递归 导包
+高级特性:切片 迭代 列表生成式 生成器 迭代器
+函数式编程:map/reduce filter sorted 返回函数 匿名函数 装饰器 偏函数
+模块:第三方库
+面向对象:类 实例 访问限制(作用域)private public 多继承 多态 获取对象信息 实例属性和类属性
+面向对象高级: __slots__ @property 多继承 枚举 元类
+错误 调试 测试:
+IO: 文件读写 StringIO BytesIO 操作文件和目录 序列化(代码序列化 xml json)
+进程 线程:多进程 多线程 ThreadLocal 进程vs线程 分布式进程
+正则
+常用内建模块(系统自带包)
+常用第三方模块
+//图形界面
+网络编程
+Email:SMTP发送 POP3收取
+db: SQLite MySQL
+web HTTP协议 HTML简介 WSGI接口 使用Web框架 使用模板
+异步IO:协程 asyncio async/await aiohttp
+实战:
+Day 1 - 搭建开发环境
+Day 2 - 编写Web App骨架
+Day 3 - 编写ORM
+Day 4 - 编写Model
+Day 5 - 编写Web框架
+Day 6 - 编写配置文件
+Day 7 - 编写MVC
+Day 8 - 构建前端
+Day 9 - 编写API
+Day 10 - 用户注册和登录
+Day 11 - 编写日志创建页
+Day 12 - 编写日志列表页
+Day 13 - 提升开发效率
+Day 14 - 完成Web App
+Day 15 - 部署Web App
+Day 16 - 编写移动App
+
+
