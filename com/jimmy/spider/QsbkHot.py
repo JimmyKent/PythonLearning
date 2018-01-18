@@ -47,38 +47,69 @@ def get_qsbk_list(page):
     return _list
 
 
-def save_to_db():
+def filter_list():
+    pass
+
+
+def create_db(db_name):
     # 连接到SQLite数据库
     # 数据库文件是test.db
     # 如果文件不存在，会自动在当前目录创建:
-    conn = sqlite3.connect('test.db')
+    conn = sqlite3.connect(db_name)
     # 创建一个Cursor:
     cursor = conn.cursor()
     # 执行一条SQL语句，创建user表:
-    cursor.execute('create table user (id varchar(20) primary key, name varchar(20))')
+    cursor.execute('create table if not exists hot (id integer primary key autoincrement, joke text)')
+
+
+def save_to_db(_list):
+    conn = sqlite3.connect('qsbk.db')
+    # 创建一个Cursor:
 
     # 继续执行一条SQL语句，插入一条记录:
-    cursor.execute('insert into user (id, name) values (\'1\', \'Michael\')')
+    for joke in _list:
+        if "\'" not in joke:
+            cursor = conn.cursor()
+            cursor.execute('insert into hot (joke) values (\'' + str(joke) + '\')')
+            cursor.close()
+            conn.commit()
+    # cursor.execute('insert into user (id, name) values (\'1\', \'Michael\')')
     # 关闭Cursor:
-    cursor.close()
+
     # 提交事务:
-    conn.commit()
+
     # 关闭Connection:
     conn.close()
 
-    conn = sqlite3.connect('test.db')
+
+def query():
+    conn = sqlite3.connect('qsbk.db')
     cursor = conn.cursor()
     # 执行查询语句:
-    cursor.execute('select * from user where id=?', ('1',))
+    cursor.execute('select * from hot')
     # 获得查询结果集:
     values = cursor.fetchall()
-    print(values)
+    for joke in values:
+        print(joke)
+    cursor.close()
+    conn.close()
+
+
+def query_size():
+    conn = sqlite3.connect('qsbk.db')
+    cursor = conn.cursor()
+    cursor.execute("Select * from hot;")
+    print(cursor.__sizeof__())
     cursor.close()
     conn.close()
 
 
 if __name__ == "__main__":
     print("this is program entrance")
-    _list = get_qsbk_list(1)
-    # print(_list.__sizeof__())
-    save_to_db()
+    create_db('qsbk.db')
+    for i in range(1, 10):
+        hot_list = get_qsbk_list(i)
+        print(hot_list.__sizeof__())
+        save_to_db(hot_list)
+    # query()
+    query_size()
