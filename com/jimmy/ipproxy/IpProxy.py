@@ -1,5 +1,12 @@
 import requests
 from lxml import etree
+from os.path import exists, getsize, dirname, abspath
+
+HTTP_IP_LIST = "ip_list_http.txt"
+
+# 获取当前文件所在的目录,然后得到需要文件的绝对路径
+HTTP_IP_LIST_PATH = dirname(abspath(__file__)) + "/" + HTTP_IP_LIST
+print('path:', HTTP_IP_LIST_PATH)
 
 
 def write_file_by_line(filename, data_list):
@@ -20,23 +27,43 @@ def get_ip_list(response):
 
     nn_list = []
     for i in range(len(ip_list)):
+        # 如果代理是80端口的话,应该是被有道劫持了,所以过滤掉80端口的代理
         if type_list[i] == "HTTP" and int(port_list[i]) != int(80):
             nn_list.append(str(ip_list[i]) + ":" + str(port_list[i]))
     return nn_list
 
 
-if __name__ == '__main__':
+def refresh_proxy_list():
     # 代理列表 http://www.xicidaili.com/
-    proxies = {
-        "http": "http://111.155.116.238:8123",
-    }
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
 
     url = 'http://www.xicidaili.com/nn/'
-    response = requests.get(url, headers=headers, proxies=proxies, timeout=3).text
-    print("-----response-----")
-    print(response)
-    print("-----response end -----")
-    ip_list = get_ip_list(response)
-    write_file_by_line("ip_text.txt", ip_list)
+
+    if (not exists(HTTP_IP_LIST_PATH)) or getsize(HTTP_IP_LIST_PATH) == 0:
+        print("ip list is null")
+        response = requests.get(url, headers=headers, timeout=3).text
+        ip_list = get_ip_list(response)
+        write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
+        return
+
+    file = open(HTTP_IP_LIST_PATH)
+
+    for line in file.readlines():
+        ip_proxy = 'http://' + line.strip()
+        proxies = {
+            "http": ip_proxy,
+            # "http": "http://106.112.160.134:808",
+        }
+        try:
+            response = requests.get(url, headers=headers, proxies=proxies, timeout=3).text
+            ip_list = get_ip_list(response)
+            write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
+            print("get ip list is ok.")
+            break
+        except Exception as e:
+            print('get ip list is exception, proxy ', ip_proxy, " is error.")
+
+    file.close()
+
+# refresh_proxy_list()
