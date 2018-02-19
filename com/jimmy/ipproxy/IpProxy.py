@@ -20,7 +20,7 @@ def get_ip_list(response):
 
     nn_list = []
     for i in range(len(ip_list)):
-        if type_list[i] == "HTTP":
+        if type_list[i] == "HTTP" and int(port_list[i]) != int(80):
             nn_list.append(str(ip_list[i]) + ":" + str(port_list[i]))
     return nn_list
 
@@ -34,7 +34,7 @@ if __name__ == '__main__':
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
 
     url = 'http://www.xicidaili.com/nn/'
-    response = requests.get(url, headers=headers, proxies=proxies).text
+    response = requests.get(url, headers=headers, proxies=proxies, timeout=3).text
     print("-----response-----")
     print(response)
     print("-----response end -----")
