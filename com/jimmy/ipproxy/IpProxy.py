@@ -19,6 +19,11 @@ def write_file_by_line(filename, data_list):
 
 
 def get_ip_list(response):
+    """
+    https://zhuanlan.zhihu.com/p/29436838
+    :param response:
+    :return:
+    """
     ip_list_xml = etree.HTML(response)
     ip_list = ip_list_xml.xpath('//tr/td[2]/text()')
     port_list = ip_list_xml.xpath('//tr/td[3]/text()')

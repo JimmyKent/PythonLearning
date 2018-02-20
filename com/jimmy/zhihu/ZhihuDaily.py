@@ -8,7 +8,7 @@ if __name__ == '__main__':
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
 
-    url = 'http://daily.zhihu.com/'
+    url = 'http://news.at.zhihu.com/api/4/news/before/20180220'
 
     for line in file.readlines():
         ip_proxy = 'http://' + line.strip()
