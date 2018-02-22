@@ -1,0 +1,566 @@
+<div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">法医有哪些常见的职业病？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/v2-682aed92576320536f3a8b1ce1405792_is.jpg">
+<span class="author">杨斯文，</span><span class="bio">学生，略懂军事，同名大号因开车阵亡</span>
+</div>
+
+<div class="content">
+<p>给朋友照相不说 123。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/26527281">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">亚洲有哪些气质超群的女明星？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/3d7d49567057298c48c0d734a2d3d326_is.jpg">
+<span class="author">战五，</span><span class="bio">无干货</span>
+</div>
+
+<div class="content">
+<p>斯琴高娃，每每看她跟别人的对手戏，都有一种「我是你妈」的即视感。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/36390957">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">丁克是一种自私吗？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/7a1546b80_is.jpg">
+<span class="author">守脑如玉</span>
+</div>
+
+<div class="content">
+<p>你都不许我自私了你说你是有多自私啊。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/21664268">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">南方这么多年没供暖都熬过来了，为什么这两年供暖的呼声突然涨高？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic4.zhimg.com/v2-09c8c217d4fe333b7f1ba8c1dae52d9b_is.jpg">
+<span class="author">二里，</span><span class="bio">富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善</span>
+</div>
+
+<div class="content">
+<p>以前网络不发达的时候谁知道北方人冬天过得这么舒服。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/39188943">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">如何空运长颈鹿？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/6b2a1d9894c4f14a2eb82943b4169f61_is.jpg">
+<span class="author">no name，</span><span class="bio">AMOLED 行业</span>
+</div>
+
+<div class="content">
+<p>在小的时候运到目的地等它长大。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/22151972">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">电影让你产生过哪些对现实的误解？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/v2-2be33a10f7f4953167f836c0bf04e799_is.jpg">
+<span class="author">王三岁，</span><span class="bio">我还小你不应该和我计较</span>
+</div>
+
+<div class="content">
+<p>我是主角。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/60922307">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">食堂大妈为什么不愿意多给一点点肉呢？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/2211ad76983bc45c71d7e949c863d54a_is.jpg">
+<span class="author">周机长，</span><span class="bio">料理王语嫣</span>
+</div>
+
+<div class="content">
+<p>以前学校里评选食堂哪个大妈最受欢迎，然后下个月开始我们就再也没有见过她了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/28801584">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">你见过哪些化解尴尬的例子？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/da8e974dc_is.jpg">
+<span class="author">知乎用户，</span><span class="bio">PATENT ATTORNEY</span>
+</div>
+
+<div class="content">
+<p>两三年前老夫跳槽的前夕，新东家打电话来电话询问各种信息职业情况等。</p>
+<p>但是！当时老夫正在和前老板一辆车在高速路上，本来想说信号不好过一会我打回去，结果新东家那个 HR 不解风情坚持追问，</p>
+<p>于是坚（厚）强（颜）勇（无）敢（耻）的我默默当着老板的面和新东家聊了 15 分钟个人信息家庭信息比如户籍地年龄，还有职业信息比如职位抬头和收入等问题之类，最悲催的是还被要求做了自我介绍。那一瞬间放下电话后车内空气突然安静，老板淡淡地问了我一句：</p>
+<p>干啥的电话？</p>
+<p>但讼棍如我，忽悠人可是职业的。</p>
+<p>于是老夫</p>
+<p>吸了口气顺便平稳了情绪</p>
+<p>气沉丹田又咽了一下口水</p>
+<p>顷刻之间脱口而出来了句：</p>
+<p>相亲的。</p>
+<p>这么多年过去，老夫再也没有这么机智过。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/60205210">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">有哪些「还有这种操作？」的故事？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/da8e974dc_is.jpg">
+<span class="author">匿名用户</span>
+</div>
+
+<div class="content">
+<p>开始</p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/v2-b5c40aa62d17faee2e231a582f2190f8_b.jpg" alt=""></p>
+<p>然后</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/v2-d408a89ecaa2d1e32fde6bcfd58f87e6_b.jpg" alt=""></p>
+<p>很气是吧</p>
+<p>最后</p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/v2-fe8f030a1efd1f116919c07c159b5d84_b.jpg" alt=""></p>
+<p>说不出话◉‿◉，真人真事。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/60347845">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">看王家卫的电影是否需要戴墨镜？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic4.zhimg.com/619ed57cc0d266267c4f66775ac29d57_is.jpg">
+<span class="author">廉明，</span><span class="bio">学生</span>
+</div>
+
+<div class="content">
+<p>那看《史记》.......</p>
+</div>
+</div>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/d001ae235_is.jpg">
+<span class="author">goss-beta，</span><span class="bio">半吊子程序员</span>
+</div>
+
+<div class="content">
+<p>一届残奥会看下来……</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/20713178">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">有哪些看似精妙实则很蠢的设计？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/v2-4d724df77f35071492643c4a5af2cced_is.jpg">
+<span class="author">刘飞，</span><span class="bio">你所见的，都是错的。</span>
+</div>
+
+<div class="content">
+<p>在线客服基于统计做整句联想，引导用户的提问。</p>
+<p>然后：</p>
+<p><img class="content-image" src="http://pic4.zhimg.com/70/v2-8e629f2b3e97dc8e572b0b43b8c93e0f_b.jpg" alt=""></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/33110020">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">为什么国家不禁止人名重复？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/ab952a4f1312716c6163c524fdbebdae_is.jpg">
+<span class="author">叛逆者，</span><span class="bio">http://klayge.org</span>
+</div>
+
+<div class="content">
+<p>霸道总裁：「你是新来的秘书吧，哟，你叫什么？」</p>
+<p>想上位的年轻女秘书：「{585F5AFD-F8D3-46ED-827C-28A87AF2547E}」</p>
+<p>霸道总裁：「你……你被开除了。立刻到人事部找{E1418AFC-34ED-4666-AC16-DC1F4EBBEF55}。」</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/29598070">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">旅游的时候你遇到过哪些搞笑的事情？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/v2-73c94878727dfc905a5fa40200ba02aa_is.jpg">
+<span class="author">Ma Du，</span><span class="bio">将日留/托福考生/奋斗/摸索创业</span>
+</div>
+
+<div class="content">
+<p>今年冬天和妈妈在北海道旅游，一直负责着她的翻译工作。一次在札幌站里面陪她购物，进了一个偏欧式的本土牌子店，因为还有十分钟就要下班只有一个导购也没有客人，导购是个日本小哥。</p>
+<p>我妈看上了一件灰色的休闲西服，叫导购拿了件 M 号的给我试穿。穿上后感觉有点小，我妈就问我说：</p>
+<p>「有没有大一码的，感觉有点小。」</p>
+<p>还没等我张嘴翻译，旁边导购小哥开口说：</p>
+<p>「Lサイズは今ないですね」（现在没有 L 号了呢）</p>
+<p>还是没等我张嘴翻译，我妈就对着导购说：</p>
+<p>「你不觉得小吗这个号？」（用的中文）</p>
+<p>导购小哥：</p>
+<p>「Mはいいですよ”」（M 挺好的）</p>
+<p>我妈：</p>
+<p>「这个风格是不是不太适合他？」</p>
+<p>导购小哥：</p>
+<p>「僕はこのスタイルがいいと思うよ」（我觉得这个风格很好啊）</p>
+<p>我在旁边目睹了这一切，简直目瞪口呆。</p>
+<p>等小哥说完之后我们仨一起狂笑，真的不懂两个完全不同语言的使用者是怎么做到的哈哈哈。</p>
+<p>世界真奇妙。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/41115872">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">影视行业内对小鲜肉爱豆的真实评价是怎样的？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic4.zhimg.com/v2-d328f59b2fb66c68097292d2c7694d37_is.jpg">
+<span class="author">活好丶活着真好，</span><span class="bio">我就想试试能不能在知乎约到</span>
+</div>
+
+<div class="content">
+<p>如果一个媒人跟你介绍相亲对象时，说性格，说家产，说学历，说人脉。那么那个对象一定长得不好看。</p>
+<p>所以，老戏骨们在评价一个小鲜肉时，如果多用，努力，有灵性，有礼貌，有人气，有潜力等等，那么说明。</p>
+<p>他妈的一定没演技。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/55049839">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">科研工作者工作时都在想什么？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/f3a67a7a5_is.jpg">
+<span class="author">叶哲泰，</span><span class="bio">为什么要爱上一个自己到不了的时代</span>
+</div>
+
+<div class="content">
+<p>卧槽这个数据要是真的我就有诺贝尔奖了。</p>
+<p>卧槽又一个诺贝尔奖。</p>
+<p>卧槽又一个诺贝尔奖。</p>
+<p>卧槽又一个诺贝尔奖。</p>
+<p>卧槽又一个诺贝尔奖。</p>
+<p>……</p>
+<p>……</p>
+<p>卧槽原来问题出在这里。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/51634064">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">在魔兽中发生的最励志和感动你的事？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/4be2081bb8d60f85c9de4311dd5923a8_is.jpg">
+<span class="author">任性的坚强，</span><span class="bio">行政</span>
+</div>
+
+<div class="content">
+<p>我妈！</p>
+<p>这个答案必须是我妈！</p>
+<p>06 年入坑，至今仍在破碎群岛的海岸线上驰骋飞翔！打团本、刷战场、泡 AH、收小宠物、刷灵魂兽……啥都干过，并且至今乐此不疲！关键是作为公会的重要成员，魔兽玩了这么多年，依然菜的打木桩都嫌磕碜！是不是很励志？是不是很感人？</p>
+<p>顺便说一句，我妈 60 后，今年 53 了。</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/v2-c2f317c0f075e0dc954e0ba25db6dc45_b.jpg" alt=""></p>
+<p>主要当时是拍狗的，老人家误入画框了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/60640052">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">从二十出头就开始规律健身，控制饮食，注重养生真的有利于健康、延年益寿吗？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/v2-1c47d64d03de8c6894cc131b011f214c_is.jpg">
+<span class="author">彩云，</span><span class="bio">离大V很远，离AV很近！</span>
+</div>
+
+<div class="content">
+<p>确实是这样的，我就认识一个人他从不抽烟、不喝酒、不玩手机、不泡吧，从不撸串，而且还从不泡妞，平时就喜欢看书和看报，偶尔也看看电视，每天都是 6 点起床，天天坚持一定量的运动，饮食也很清淡，晚上到了十点就寝，这样整整坚持了十年之久，身体一直都很棒，基本从不生病。</p>
+<p>但就在前段时间，他却生了场大病，我去看他的时候问他怎么回事，他说自从出狱以后他的生活规律被完全打乱了，才刚过半年身体就大不如从前了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/51185039">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">你说过哪些不合时宜的大实话？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/v2-9c904975abf95b6d54ac97f1d5e4f905_is.jpg">
+<span class="author">看风景的蜗牛君，</span><span class="bio">你想了解“隐身术”吗，来参加我的live吧！</span>
+</div>
+
+<div class="content">
+<p>稍微跑题，说个我家人的。</p>
+<p>有一次亲戚在姥姥家聚会，舅妈说起来自己的身份证丢了，不过自己常年住在乡下，不出远门，身份证基本用不到，就一直没去补办。</p>
+<p>大家自然都劝舅妈还是去补办一个，毕竟说不准什么时候就用到了。</p>
+<p>大姨也很热心地劝舅妈，说：「将来火化的时候，没身份证还得多交三百块钱呢！」</p>
+<p>PS：大姨人很好，心直口快，你们不要黑她。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/48002856">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">有哪些侮辱消费者智商的山寨产品？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic2.zhimg.com/v2-e7d3f39e160f3389118839f7d380fa21_is.jpg">
+<span class="author">秦萱，</span><span class="bio">从此再也找不到瀛洲了</span>
+</div>
+
+<div class="content">
+<p>朋友去年暑假去内蒙拍的</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/v2-d131710ede199386a64f9c8c3a4f22e1_b.jpg" alt=""></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/53961460">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+<h2 class="question-title">高考作弊或者作弊被抓是种怎样的体验？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic1.zhimg.com/v2-88efe9d3265b0e2e5dd530f785a44830_is.jpg">
+<span class="author">本泽宇，</span><span class="bio">小火龙/战士/部落/狂鼠/M416</span>
+</div>
+
+<div class="content">
+<p>是不是被抓了以后，</p>
+<p>坐了牢，</p>
+<p>狱友们问他：「Bro，怎么进来的？」</p>
+<p>他，</p>
+<p>低声道：</p>
+<p>「说出来你可能不信，我是考进来的。」</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/42646217">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>

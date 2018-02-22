@@ -1,0 +1,83 @@
+<div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">点蚊香对猫会有伤害吗？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic4.zhimg.com/c1b4a75b500a354b1b6dfa2b7ddfefaf_is.jpg">
+<span class="author">中国科普博览，</span><span class="bio">我们科学家有话说</span>
+</div>
+
+<div class="content">
+<p>猫何止是不爱闻这个味儿，根本是这个味道可能会害死猫的……</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/v2-00c42b1ee430361601961096ca31da91_b.jpg" alt=""></p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/v2-fa9fafcc1e62d43f0e758861e0eed050_b.jpg" alt=""></p>
+<p>蚊香有毒的事情大家多多少少都略有所闻，但是作为已经取得生产许可证号、获得产品标准号面向市场销售的商品，理论上来讲，只要根据产品说明书控制使用剂量，人身安全应该还是有保障的。</p>
+<p>问题就在于，许多铲屎官忽略了在这些安全评价体系中，所谓的“安全性”都是以人作为对象进行评估的。而对于喵星人和汪星人，由于它们的体重与生理代谢特点与人并不完全相同，即使是降低剂量、或使用含有天然成分的驱蚊产品也可能会对它们造成致命伤害。</p>
+<p><strong>驱蚊酯（菊酯），便是这样的一种“猫毒药”。</strong></p>
+<p><strong>请尽量避免或警惕使用以下驱蚊 / 虫物品</strong></p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/v2-e58aad3f1e4b30b0617c776e865b0254_b.jpg" alt=""></p>
+<p>目前，市售的各类驱蚊产品不外乎都含有这五种主要成份：<strong>ef=""&gt;DEET (避蚊胺)、Picaridin(派卡瑞丁，羟乙基哌啶羧酸异丁酯)、Oilof LemonEucalyptus(柠檬桉叶油)/PMD(柠檬桉叶油提取物)、IR3535(伊默宁)及菊酯类化合物(如除虫菊酯、百灭宁、灭白可等)。</strong></p>
+<p>在这之中，<strong>菊酯类化合物毒性最大（毒性越大越有效），而价格最为低廉，是目前市场上几乎所有非接触类蚊香盘、电蚊香的主要成份</strong>。</p>
+<p>菊酯化合物种类繁多，如除虫菊酯、氯菊酯（即百灭宁）、胺菊酯、氯氰菊酯（即灭白可）、溴氰菊酯、右旋反式烯丙菊酯等，这些衍生物都属于世界卫生组织推荐的可用于制作蚊香、防治卫生害虫及其媒介的农药类物质。因此只要按说明使用，对人来说就不会有中毒的危险。</p>
+<p>之所以说对人类相对安全，是因为<strong>人的肝脏具有可以将这类化合物代谢为无毒或低毒物质排出的能力。</strong>与人类体质相似，汪星人虽然体型较小，但肝脏也具备清除这种菊酯类物质的能力，因此有许多汪星人的灭蚤项圈也含有较低浓度的菊酯类物质。</p>
+<p><strong>然而，</strong></p>
+<p><strong>喵星人没有代谢菊酯的能力！</strong></p>
+<p><strong>喵星人没有代谢菊酯的能力！</strong></p>
+<p><strong>喵星人没有代谢菊酯的能力！</strong></p>
+<p>也就是说，<strong>对于喵星人来说，对菊酯类蚊香、电蚊香的耐受性远远远远远远远远低于人类和汪星人。</strong>我们也可以理解为，如果人和汪星人体吸入少量的菊酯，那么是能够缓慢清除掉的，不对身体造成伤害；而喵星人即使吸入少量菊酯，也几乎完全停留在体内，很难被代谢掉，从而引起<strong>蛋白质变性、脑部神经系统受损、器官衰竭甚至死亡（其实就是喝农药后的症状）</strong>。不仅对喵星人造成长期伤害，喵星人中毒后也很难恢复。</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/v2-d8e40c877072a9cbc9b54824081e1b09_b.jpg" alt=""></p>
+<p>菊酯类化合物的基本构架类似、结构各异。</p>
+<p>在这些化合物中，<strong>二氯苯醚菊酯</strong>和<strong>氯氰菊酯</strong>几乎完全不能被喵星人代谢，对喵星人来说，是堪比砒霜一样的存在。</p>
+<p>二氯苯醚菊酯（Permethrin）又称苄氯菊酯 / 扑灭司林 / 百灭宁 / 氯菊酯，氯氰菊酯（Cypermethrin）又称又称灭百可、安绿宝等，二者都是盘式蚊香、电蚊香中常用的驱蚊物质之一。</p>
+<p>此外，一些<strong>市售犬用除蚤圈或驱虫滴剂也是用菊酯制成的</strong>，如广受欢迎的德国拜耳拜宠爽犬用体外驱虫滴剂和美国 K9 Advantix® II 犬用体外驱虫滴剂都含有二氯苯醚菊酯。可想而知，这些对人和汪星人相对安全的产品如果误给喵星人使用，和给喵星人吃狗粮的严重程度可是完全不一样，后果将不堪设想。</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/v2-aa7e067f78f5c3a937681811bacdd2aa_b.jpg" alt=""></p>
+<p><strong>K9 Advantix®系列犬用驱虫滴剂主要有效成分为吡虫啉、二氯苯醚菊酯和吡丙醚，商品在外包装上注明有“避免对猫使用”字样。</strong></p>
+<p>与过量吸入蚊香而导致人感到不适的症状相似，“中毒”后的猫咪按程度的轻重可以表现为：</p>
+<p><strong>1、</strong><strong>流口水</strong></p>
+<p><strong>2、</strong><strong>走路歪斜，失去平衡能力（其实是头晕吧）</strong></p>
+<p><strong>3、</strong><strong>兴奋过度，后期出现抽搐</strong></p>
+<p><strong>4、</strong><strong>呕吐</strong></p>
+<p><strong>5、</strong><strong>食欲不振</strong></p>
+<p>而减小蚊香用量以及加强通风的方法除了使猫咪由急性中毒转为慢性中毒以外，可以说没有任何用处。而高频次使用菊酯类蚊香，或铲屎官不幸买到了有效成分未明的，和实际浓度高于安全值的“三无”劣质蚊香，或家里的通风状况不好，或猫咪幼小老弱、体质不好，都可能出现开头所述猫主子被毒死的悲剧。</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/v2-fcfcf20805b6c4491035d0169fd6e7c6_b.jpg" alt=""></p>
+<p><strong>别看了，不是质量问题。普通的市售电蚊香产品对人类都是安全的，问题出在喵星人体质特殊。可是那位宣传除虫菊酯对猫狗都适用，并且安全无毒的卖家，你的良心不会痛嘛！</strong></p>
+<p>值得注意的是，其实猫咪代谢许多有毒物质的能力都十分有限，虽然爱猫家庭可以用含有避蚊胺、柠檬桉叶油类的物质涂抹在衣物内代替菊酯，但倘若猫咪不慎将这些物质舔入或者吸入，则同样会导致中毒的症状。</p>
+<p>猫咪如果出现了以上症状，<strong>铲屎官应立刻将猫咪送到兽医处进行紧急医治</strong>，否则将会导致猫咪身体不可逆的伤害、肾衰竭甚至死亡！</p>
+<p>但是，由于喵星人体质特殊，即使是最专业的治疗也只是在短时间缓解猫咪的中毒症状，长期清理毒素需要多次透析，对猫和铲屎官造成的身心伤害都是不可估量的。</p>
+<p>因此铲屎官们应该从源头抓起：</p>
+<p>1. 养猫的家庭应<strong>格外注意或拒绝使用含有菊酯类物质的各种物品</strong>，尽量通过使用电蚊拍、蚊帐、纱窗等物理防蚊；</p>
+<p>2. 在主人涂抹 DEET 或其他驱蚊产品后<strong>注意洗手，注意和猫主子保持距离</strong>，尽量不要让猫咪把药蹭到毛上去；</p>
+<p>3. 不要随便把犬用驱虫药、除蚤圈往猫主子身上套;</p>
+<p>4. 更不要随意从网上购买“三无”的不表明成分、用量、尤其是价格低廉的猫星人除蚤圈，甚至对于大厂生产的正规猫用驱虫滴剂在使用后隔天也最好通过洗澡去掉，确保猫主子的健康！</p>
+<p>以下为网友的正对照：</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/v2-a7bb1c7497392b4904d7ab7a90037a75_b.jpg" alt=""></p>
+<p>舍己为猫，精神可嘉！下次记得带猫包。</p>
+<p><strong>制作</strong>：关西科健产业研究院 Serina</p>
+<p><strong>监制</strong>：中国科学院计算机网络信息中心</p>
+<p><strong>出品</strong>：科普中国</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/60679928">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>

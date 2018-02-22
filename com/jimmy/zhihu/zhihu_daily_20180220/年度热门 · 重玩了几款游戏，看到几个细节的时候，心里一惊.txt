@@ -1,0 +1,107 @@
+<div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">游戏中有哪些细思恐极的细节？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="http://pic3.zhimg.com/276f1ee90185133371fe957cc98ed92e_is.jpg">
+<span class="author">WayneL，</span><span class="bio">小口品</span>
+</div>
+
+<div class="content">
+<p>很多游戏都会在细节上下功夫，但是做到让人<strong>细思极恐</strong>的并不多，不过这种游戏还是有的，比如下面这几个：</p>
+<p>（注：纯原创手打内容，考虑到让不玩游戏的人理解这个话题，我会尽量写得通俗易懂）</p>
+<p><strong>1.《战神 God of War》的神秘电话号码</strong></p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/b432d3bc1dd4fc90cc4ce35ac065d3d8_b.jpg" alt=""></p>
+<p>索尼 PS 上的《战神》系列是我个人最喜欢的游戏之一，玩家操控的角色叫做奎托斯，也就是所谓的“战神”，这款游戏的忠实粉丝也会尊称他为</p>
+<p>“奎爷”。《战神》是以希腊神话为背景的，经常出现一些神话传说中的的雕像。还有一点就是，你可摧毁游戏场景里的物品。嗯，这是我们的前提背景。（不玩游戏的宝宝别放弃阅读，后面绝对让你吃惊）</p>
+<p>《战神 1》（2005 年发布）最后快要通关的时候会出现两座很霸气的巨型雕像，大家以为又是什么神话人物，再加上着急通关，所以很多人都没有去试着把这两座雕像打倒（其实即使你试了，也不一定能摧毁雕像）。但是……但是……超级贱的游戏设计师早就设计好了这一幕，如果你对雕像连续攻击 400 下，嗯没错是 400 下，雕像竟然会破碎！按照惯例这时会出现绝对稀有的装备物品，可是这时候出现的是一个电话号码！</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/84b11070a5f8647f98ba7d0019a65432_b.jpg" alt=""></p>
+<p>这是一个 1-800 开头的电话（1 是美国国际区号，800 是免费电话前缀），很明显，这是在诱惑你拨通这个号码。如果你真的打了这个电话，电话是通的，你会听到奎爷的声音对你说说：</p>
+<p>“<strong>I’m the God of War</strong>”（中文意思：“吾乃战神”）。</p>
+<p>你说这个设定帅不帅吧！</p>
+<p><strong>2. 《合金装备》里那位年迈的狙击手</strong></p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/3f2b7b9e14dfe8c83c18b0ea47f489ec_b.jpg" alt=""></p>
+<p><em>↑游戏主角蛇叔</em></p>
+<p>《合金装备》系列在细节上很成功，在此用《合金装备 3》举例：在游戏中，会出现游戏史上最难过的 Boss 之一，一位名为“The</p>
+<p>End”的敌方狙击手。这个狙击手是个身经百战的老头，如果前面关卡的难度是 1，那么最后与这位神级狙击手 1v1 的难度就是 5，当初不知多少玩家日夜奋斗终于渡过这一天劫。</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/31f6ebd03ac6377bfaf4e2fc7652ba26_b.jpg" alt=""></p>
+<p><em>↑这家伙就是那位年迈的狙击手，人称 The End</em></p>
+<p>但是......估计聪明的你预料到此处有转折，敌人是一个年迈的老人，设计师竟然设定他会老死：如果你调整系统时间（PS2 主机）到 1 个月之后，你会兵不血刃顺利过关，因为这家伙老死了。不过当时的设定是如果玩家手动 afk 待机一个月，敌人才会老死，调系统时间是玩家自己发现的 bug。</p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/6fd55e10c9129217f46d09faa567f59c_b.jpg" alt=""></p>
+<p><em>↑就是这种冰块</em></p>
+<p>刚才讲的是《合金装备 3》，上一部《合金装备 2》（2001 年发布）里面有一个更加细思极恐的细节，就是游戏中的冰块是会随时间融化的，要知道这是一部 2001 年的游戏。《合金装备 2》冰块会出现在场景中桌子上的水杯里，对杯子开枪会把冰块打出来，不知道开发团队是不是提前完成了任务，总之他们请了大学物理教授带领科研团队，去设计冰块融化的模组和代码……游戏结束播放的制作人员名单，会有专门有这群设计冰块融化的人们。</p>
+<p><strong>3.《使命召唤》蛋疼的设计师</strong></p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/8e90983cde83d5d8cdea181b44cec291_b.jpg" alt=""></p>
+<p>《使命召唤》是一个射击游戏系列，也就是你拿着枪杀敌人。《使命召唤：现代战争 3》有一个任务是搭乘飞机（剧情模式第一章第四节《动荡》），游戏设定飞机中途坠毁，玩家也会经历坠毁的过程，这是我们的前提。</p>
+<p>玩到这一关的时候，玩家都被自己搭乘的失控飞机吸引注意力，但是......不好意思又是但是......如果你在飞机坠毁的同时，操控角色更换弹匣（也就是扔掉你手里枪支的弹药盒子），你的弹匣会呈现失重状态，漂浮在机舱里，而不是像以往那样直接掉落。</p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/4bc27726c90d4cad0bb3ed53282e834d_b.jpg" alt=""></p>
+<p><em>↑呐，就是这样</em></p>
+<p>没有人会在这时更换弹匣，不过蛋疼的设计师还是考虑到了，设计师为了遵循中学物理老师的教导，设计了全游戏里唯一的失重场景，虽然真的没人会在这时候换弹匣！</p>
+<p><strong>4.《寂静岭》中的兔子玩偶</strong></p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/419bd7bccbf99c1fb5e1e0ab9aaa8a15_b.jpg" alt=""></p>
+<p><em>↑注意床上的兔子玩偶</em></p>
+<p>《寂静岭》是一款恐怖解密探险游戏，游戏最大的特色是带有恐怖和悬疑的气氛。《寂静岭 4》中有一个环节是偷窥邻居，邻居是个长腿妹子，这个不是主线任务，是玩家闲着没事干的时候可以去做的一个剧情。玩家可以偷窥邻居妹子的卧室，床上放着一个兔子玩偶，就是一个看似很正常玩偶，玩家看了之后不会在意。</p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/1c9358051f8b8ad87ca3dbe83c057590_b.jpg" alt=""></p>
+<p><em>↑女邻居旁边的兔子玩偶</em></p>
+<p>不过如果你沉迷于偷窥邻居的话，在偷窥次数达到一定数量级的时候，床上的兔子玩偶会变成这样：<strong>扭头盯着你，而且还指着你。</strong></p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/1f59cae909f570c75d912eaf58cd8651_b.jpg" alt=""></p>
+<p><strong>5. 《死亡空间》：细节变态到你想要杀了游戏设计师</strong></p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/d82f0cc2f42e0a1a6cdb26c2356bf49a_b.jpg" alt=""></p>
+<p>这里说个老游戏，2008 年的《Dead Space 死亡空间第一部》，有个细节 99.99%的玩家都不会注意到，可是一旦你注意到了，你就想立马给设计师绑个窜天猴让他上天。</p>
+<p>为什么这么说呢？好吧，这个游戏是按照章节来玩的，从第一章玩到最后一章，主线角色 Nicole（对于玩家来说是女神般的存在）的命运一直都是大家关注的焦点。可是，如果你把所有章节名字的首字母连起来看，就是一句话，一句让你砸键盘扔鼠标的<strong>英文“藏头诗”</strong>：</p>
+<p><img class="content-image" src="http://pic4.zhimg.com/70/db3428b750393307dccda7c53076a99f_b.jpg" alt=""></p>
+<p><strong>Nicole Is Dead （中文翻译：Nicole 死了）</strong></p>
+<p>没有一点点防备~</p>
+<p>就这样被剧透~</p>
+<p><em>以下是第一次更新：</em></p>
+<p><strong>6.《天际》里有自己生活的 NPC</strong></p>
+<p><img class="content-image" src="http://pic2.zhimg.com/70/4c9449b22557b7dd0d6fdc7b4d274131_b.jpg" alt=""></p>
+<p>在 GTA5 和辐射 4 问世前，《上古卷轴：天际》里的开放式世界提前让玩家过了一把瘾。玩家在《天际》的世界里想干什么就干什么，但最值得一提的是《天际》游戏里的 NPC 人物，也就是游戏世界里面那些打杂的、跑龙套的。比如铁匠啊酒保啊之类。</p>
+<p>这些电脑操控的小角色都是有个性的，他们都有自己的生活。比如说你在地上扔了一把武器，会有人捡起来还给你，会有人在旁边说不要乱扔东西。又比如说你的偷钱这一技能练到很高等级，在街上的时候会有人对你说不要靠近我，也不知道从哪打听到你很会偷钱。</p>
+<p><img class="content-image" src="http://pic4.zhimg.com/70/3cc177b602375adb73a1f1566a25c1f3_b.jpg" alt=""></p>
+<p>但和其他游戏不同的是，这些 NPC 角色即使玩家不在他们身边，他们也会按照自己的需求和意愿去做自己的事情，这就是这个游戏最厉害的地方。总共超过 1000 个 NPC，有些人物你都不会遇见，但他们依然活在自己的世界里。如果你不去走剧情、不去做任务，而是悄悄跟踪一个随机的 NPC，你会发现这家伙可能会走着走着遇到一个熟人，然后开始聊两句，也可能去回家和老婆吵架，然后去外面约会小三。</p>
+<p><strong>然而这种设定在《天际》的上一部《上古卷轴 4》就已经有了。</strong></p>
+<p><strong>7.《GTA5》可能是细节方面最用心的游戏</strong></p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/d76c7c29a563d16b6a7c0a47c11bbd8a_b.jpg" alt=""></p>
+<p>玩过《GTA5》的玩家都会感叹，这游戏做得太真了。答主生活在洛杉矶，GTA5 的世界就是根据洛杉矶打造的，超级逼真，但这不是重点，重点是游戏在细节方面处理的很好，举几个例子：</p>
+<ul><li>如果你从水里出来，你的衣服会湿，不过只有刚才在水里的部分会湿，上半身其余部分是干的。</li>
+<li>用游戏里的手机给另一个角色打电话，挂断之后再打一次，对方会说你不刚打给我吗。</li>
+<li>如果你花超多钱去改装车，会有路人停下来对你的车指指点点，而且还会拿手机拍照。</li>
+<li>如果你拿手机对街头艺人拍照，但是没有给小费，他们会生气。</li>
+<li>游戏世界有个交友约炮网站叫 hushsmush，麦叔叔（主角之一）的老婆在上面。</li>
+<li>如果你在沙滩上看见一只狗在自己遛自己，稍等片刻就会有人问“有人看见我的狗了吗？</li>
+</ul><p><strong>还有很多很多，能举出上百个例子，可以单独开个问题了……这真是一款伟大的游戏。</strong></p>
+<p><strong>8.《蝙蝠侠：阿卡姆之城》的油画<br></strong></p>
+<p>游戏中玩家扮演蝙蝠侠，你可能会注意到有这样的一副油画：</p>
+<p><img class="content-image" src="http://pic3.zhimg.com/70/c34c17207a251969c02c5f0e838944ce_b.jpg" alt=""></p>
+<p>油画的名字是《Cain and Abel: The Duality of Man》，Cain 和 Able 是亚当和夏娃的孩子，这就是一副油画而已，也不会有相关剧情。</p>
+<p><strong>但是这部游戏是这样结束的：</strong></p>
+<p><img class="content-image" src="http://pic1.zhimg.com/70/59ca5fb5bd57cd84f626fb49d367c1e4_b.jpg" alt=""></p>
+<p>我竟无言以对......</p>
+<p>谢谢大家的赞。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="http://www.zhihu.com/question/37173546">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>
