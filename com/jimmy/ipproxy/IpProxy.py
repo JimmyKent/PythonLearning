@@ -63,8 +63,9 @@ def refresh_proxy_list():
         try:
             response = requests.get(url, headers=headers, proxies=proxies, timeout=3).text
             ip_list = get_ip_list(response)
-            write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
-            print("get ip list is ok.")
+            if len(ip_list) > 0:
+                write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
+                print("get ip list is ok.")
             break
         except Exception as e:
             print('get ip list is exception, proxy ', ip_proxy, " is error.")
