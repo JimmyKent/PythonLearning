@@ -5,8 +5,8 @@ from os.path import exists, getsize, dirname, abspath
 HTTP_IP_LIST = "ip_list_http.txt"
 
 # 获取当前文件所在的目录,然后得到需要文件的绝对路径
-HTTP_IP_LIST_PATH = dirname(abspath(__file__)) + "/" + HTTP_IP_LIST
-print('path:', HTTP_IP_LIST_PATH)
+IP_LIST_HTTP_PATH = dirname(abspath(__file__)) + "/" + HTTP_IP_LIST
+print('path:', IP_LIST_HTTP_PATH)
 
 
 def write_file_by_line(filename, data_list):
@@ -45,14 +45,14 @@ def refresh_proxy_list():
 
     url = 'http://www.xicidaili.com/nn/'
 
-    if (not exists(HTTP_IP_LIST_PATH)) or getsize(HTTP_IP_LIST_PATH) == 0:
+    if (not exists(IP_LIST_HTTP_PATH)) or getsize(IP_LIST_HTTP_PATH) == 0:
         print("ip list is null")
         response = requests.get(url, headers=headers, timeout=3).text
         ip_list = get_ip_list(response)
-        write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
+        write_file_by_line(IP_LIST_HTTP_PATH, ip_list)
         return
 
-    file = open(HTTP_IP_LIST_PATH)
+    file = open(IP_LIST_HTTP_PATH)
 
     for line in file.readlines():
         ip_proxy = 'http://' + line.strip()
@@ -64,9 +64,9 @@ def refresh_proxy_list():
             response = requests.get(url, headers=headers, proxies=proxies, timeout=3).text
             ip_list = get_ip_list(response)
             if len(ip_list) > 0:
-                write_file_by_line(HTTP_IP_LIST_PATH, ip_list)
+                write_file_by_line(IP_LIST_HTTP_PATH, ip_list)
                 print("get ip list is ok.")
-            break
+                break
         except Exception as e:
             print('get ip list is exception, proxy ', ip_proxy, " is error.")
 
